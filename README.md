@@ -1,6 +1,6 @@
 # Typing Speed Test Game 
 
-## live: https://fahim-fm.github.io/Project-3-typing-speed-test/
+## live: https://fahim-fm.github.io/Project-typing-speed-test/
 
 A web-based **Typing Speed Test Game** built using **HTML, CSS, and JavaScript**. Measure your typing speed, accuracy, and overall typing performance in real-time.
 
